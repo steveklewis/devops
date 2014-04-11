@@ -7,4 +7,4 @@ Learning about devops
 
 * [Making Devops work outside of Webops] (http://swreflections.blogspot.com/2013/10/making-devops-work-outside-of-webops.html)
 
-* [Testing link to relative path] (blob/master/blog/test.md)
+* [Testing link to relative path] (blog/test.md)
