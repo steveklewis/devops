@@ -9,4 +9,6 @@ Learning about devops
 
 * [Five Signs That Your DevOps Initiative Is Failing] (http://www.virtualizationpractice.com/five-signs-that-your-devops-initiative-is-failing-22604/)
 
+* [No, You Are Not a DevOps Engineer] (http://www.virtualizationpractice.com/devops-engineer-25120/)
+
 * [Testing link to relative path] (blog/test.md)
