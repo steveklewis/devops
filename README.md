@@ -11,4 +11,7 @@ Learning about devops
 
 * [No, You Are Not a DevOps Engineer] (http://www.virtualizationpractice.com/devops-engineer-25120/)
 
+h2. Video Presentations
+* [Instrumenting Your Business For Success with DevOps] (http://www.infoq.com/presentations/business-success-devops)
+
 * [Testing link to relative path] (blog/test.md)
