@@ -16,4 +16,6 @@ Video Presentations
 
 * [Instrumenting Your Business For Success with DevOps] (http://www.infoq.com/presentations/business-success-devops)
 
+* [DevOps at a Small International Bank - Contiguous Improvement over Continuous Delivery] (http://www.infoq.com/presentations/devops-banking-ci-cd)
+
 * [Testing link to relative path] (blog/test.md)
