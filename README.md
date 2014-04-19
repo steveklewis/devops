@@ -18,4 +18,6 @@ Video Presentations
 
 * [DevOps at a Small International Bank - Contiguous Improvement over Continuous Delivery] (http://www.infoq.com/presentations/devops-banking-ci-cd)
 
+* [Dev "Programming" Ops For DevOps Success] (http://www.infoq.com/presentations/devops-patterns)
+
 * [Testing link to relative path] (blog/test.md)
