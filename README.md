@@ -20,4 +20,15 @@ Video Presentations
 
 * [Dev "Programming" Ops For DevOps Success] (http://www.infoq.com/presentations/devops-patterns)
 
+DevOps-Friendly Software Architecture
+----------------------------
+
+* [October CincyRb - Jim Weirich on Decoupling from Rails] (https://www.youtube.com/watch?v=tg5RFeSfBM4)
+
+
+Docker
+------
+
+* [Online Tutorial - Try It!] (http://www.docker.com/tryit/)
+
 * [Testing link to relative path] (blog/test.md)
