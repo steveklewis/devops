@@ -32,3 +32,9 @@ Docker
 * [Online Tutorial - Try It!] (http://www.docker.com/tryit/)
 
 * [Testing link to relative path] (blog/test.md)
+
+
+Jenkins
+-------
+
+* [Building a Continuous Delivery Pipeline with Gradle and Jenkins] (https://speakerdeck.com/bmuschko/building-a-continuous-delivery-pipeline-with-gradle-and-jenkins)
