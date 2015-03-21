@@ -26,7 +26,20 @@
   <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
   <triggers/>
   <concurrentBuild>false</concurrentBuild>
-  <builders/>
+  <builders>
+    <hudson.plugins.gradle.Gradle plugin="gradle@1.24">
+      <description>Compile</description>
+      <switches></switches>
+      <tasks>clean compileJava</tasks>
+      <rootBuildScriptDir>spring/gs-rest-service</rootBuildScriptDir>
+      <buildFile></buildFile>
+      <gradleName>(Default)</gradleName>
+      <useWrapper>false</useWrapper>
+      <makeExecutable>false</makeExecutable>
+      <fromRootBuildScriptDir>false</fromRootBuildScriptDir>
+      <useWorkspaceAsHome>false</useWorkspaceAsHome>
+    </hudson.plugins.gradle.Gradle>
+  </builders>
   <publishers/>
   <buildWrappers/>
 </project>
